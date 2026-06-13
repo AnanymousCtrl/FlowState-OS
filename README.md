@@ -148,7 +148,6 @@ npm run lint      # Run ESLint
   ESLint violations that still need to be resolved.
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE). You may use, copy,
 modify, merge, publish, distribute, sublicense, and sell copies of the software
 subject to the conditions in the license.
