@@ -147,13 +147,8 @@ npm run lint      # Run ESLint
 - The production build succeeds, but `npm run lint` currently reports existing
   ESLint violations that still need to be resolved.
 
-## Contributors
-
-- Divyanshu Pandey - Full Stack Development
-- Divya Gupta - Full Stack Development
-- Himanshu Pawar - Development
-- Hitanshi Jain - Product and UX
-
 ## License
 
-No project license has been added yet.
+This project is licensed under the [MIT License](LICENSE). You may use, copy,
+modify, merge, publish, distribute, sublicense, and sell copies of the software
+subject to the conditions in the license.
